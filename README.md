@@ -1,1 +1,2 @@
-# ITEC50-Final-Exam
+# ITEC 50 - Web Systems and Technologies
+# Final Examination
