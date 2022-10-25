@@ -26,7 +26,6 @@ body
     justify-content: center;
     align-items: center;
 }
-
 .table
 {
     margin-left: auto;
@@ -56,19 +55,16 @@ td
 {
     color:red; 
 }
-
 .main-nav
 { 
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
 .main-nav li
 {
     display:inline-block;
 }
-
 .main-nav li a
 {
     color: white;
@@ -77,12 +73,10 @@ td
     font-family: 'MV Boli';
     font-size: 20px;
 }
-
 .main-nav li.active a
 {
     color:yellow;
 }
-
 .main-nav li a:hover
 {
     color:red;
