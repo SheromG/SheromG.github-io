@@ -7,7 +7,6 @@ body
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
-
 .table
 {
     margin-left: auto;
@@ -27,7 +26,6 @@ td
     margin-bottom: -2px;
     text-align: center;
 }
-
 .product
 {
     width: 200px;
@@ -78,6 +76,10 @@ td
     margin-top: 4%;
     margin-right: 2%;
     width: 25%;
+}
+.check:hover
+{
+    color:black;
 }
 .main-nav
 { 
